@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Marketplace specific colors
+				category: {
+					logos: 'hsl(var(--category-logos))',
+					illustrations: 'hsl(var(--category-illustrations))',
+					templates: 'hsl(var(--category-templates))',
+					mockups: 'hsl(var(--category-mockups))',
+					icons: 'hsl(var(--category-icons))',
+					graphics: 'hsl(var(--category-graphics))'
 				}
 			},
 			borderRadius: {
